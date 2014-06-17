@@ -1,0 +1,39 @@
+{
+	"title": "My brand", 
+	"sections": [
+		{
+			"title": "Core Colours",
+			"swatches": [
+				["#0056B8"],
+				["#333333"],
+				["#f8f8f8"],
+				["#ffffff"]
+			]
+		},
+		{
+			"title": "Core Action Colours",
+			"swatches": [
+				["#2382EE", "#3A9FFD"],
+				["#B8005F", "#DF0676"],
+				["#00B8A0", "#05E1C4"]
+			]
+		},
+		{
+			"title": "Complementary A Colours",
+			"swatches": [
+				["#0B141E"],
+				["#182A38"],
+				["#234662"],
+				["#839EB3"]
+			]
+		},
+		{
+			"title": "Complementary A Colours",
+			"swatches": [
+				["#12272D"],
+				["#358AA2"],
+				["#8DB3B5"]
+			]
+		}
+	]
+}
