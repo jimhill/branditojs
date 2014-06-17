@@ -9,7 +9,7 @@ Simply download, modify the `brandito.json` file and view.
 
 Looks kinda like this:
 
-![alt text](https://github.com/jimhill/branditojs/example.png "Example")
+![alt text](https://github.com/jimhill/branditojs/blob/master/example.png "Example")
 
 ---
 
