@@ -4,7 +4,7 @@
 		{
 			"title": "Core Colours",
 			"swatches": [
-				["#0056B8"],
+				["#46bd70"],
 				["#333333"],
 				["#f8f8f8"],
 				["#ffffff"]
@@ -13,26 +13,26 @@
 		{
 			"title": "Core Action Colours",
 			"swatches": [
-				["#2382EE", "#3A9FFD"],
-				["#B8005F", "#DF0676"],
-				["#00B8A0", "#05E1C4"]
+				["#3668d9", "#3774ff"],
+				["#c5241c", "#f24b42"],
+				["#fabc14", "#ffd35d"]
 			]
 		},
 		{
 			"title": "Complementary A Colours",
 			"swatches": [
-				["#0B141E"],
-				["#182A38"],
-				["#234662"],
-				["#839EB3"]
+				["#e9bf50"],
+				["#f7de99"],
+				["#fcedc4"],
+				["#fdf8eb"]
 			]
 		},
 		{
-			"title": "Complementary A Colours",
+			"title": "Complementary B Colours",
 			"swatches": [
-				["#12272D"],
-				["#358AA2"],
-				["#8DB3B5"]
+				["#2e8094"],
+				["#59a3b5"],
+				["#9ccdd9"]
 			]
 		}
 	]
